@@ -191,10 +191,10 @@ and iOS.
 
 ### **iOS Screenshots**
 
-|           | **List**                                          | **Details**                                        | **Favorites**                                     | **Theme**                                               |
-|-----------|---------------------------------------------------|----------------------------------------------------|---------------------------------------------------|---------------------------------------------------------|
-| **Dark**  | <img src="media/ios/dark_list.png" width="200"/>  | <img src="media/ios/dark_movie.png" width="200"/>  | <img src="media/ios/dark_favs.png" width="200"/>  | ![dark_theme](media/ios/dark_theme.png" width="200"/>   |
-| **Light** | <img src="media/ios/light_list.png" width="200"/> | <img src="media/ios/light_movie.png" width="200"/> | <img src="media/ios/light_favs.png" width="200"/> | ![light_theme](media/ios/light_theme.png" width="200"/> |
+|           | **List**                                          | **Details**                                        | **Favorites**                                     | **Theme**                                          |
+|-----------|---------------------------------------------------|----------------------------------------------------|---------------------------------------------------|----------------------------------------------------|
+| **Dark**  | <img src="media/ios/dark_list.png" width="200"/>  | <img src="media/ios/dark_movie.png" width="200"/>  | <img src="media/ios/dark_favs.png" width="200"/>  | <img src="media/ios/dark_theme.png" width="200"/>  |
+| **Light** | <img src="media/ios/light_list.png" width="200"/> | <img src="media/ios/light_movie.png" width="200"/> | <img src="media/ios/light_favs.png" width="200"/> | <img src="media/ios/light_theme.png" width="200"/> |
 
 ### **Android Screenshots**
 
