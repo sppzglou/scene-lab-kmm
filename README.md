@@ -189,24 +189,20 @@ and iOS.
 
 ## **Media**
 
-### **iOS Screenshots**
+### **iOS**
 
 |           | **List**                                          | **Details**                                        | **Favorites**                                     | **Theme**                                          |
 |-----------|---------------------------------------------------|----------------------------------------------------|---------------------------------------------------|----------------------------------------------------|
 | **Dark**  | <img src="media/ios/dark_list.png" width="150"/>  | <img src="media/ios/dark_movie.png" width="150"/>  | <img src="media/ios/dark_favs.png" width="150"/>  | <img src="media/ios/dark_theme.png" width="150"/>  |
 | **Light** | <img src="media/ios/light_list.png" width="150"/> | <img src="media/ios/light_movie.png" width="150"/> | <img src="media/ios/light_favs.png" width="150"/> | <img src="media/ios/light_theme.png" width="150"/> |
 
-### **Android Screenshots**
+### **Android**
 
 |           | **List**                                              | **Details**                                            | **Favorites**                                         | **Theme**                                              |
 |-----------|-------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------|--------------------------------------------------------|
 | **Dark**  | <img src="media/android/dark_list.jpg" width="150"/>  | <img src="media/android/dark_movie.jpg" width="150"/>  | <img src="media/android/dark_favs.jpg" width="150"/>  | <img src="media/android/dark_theme.jpg" width="150"/>  |
 | **Light** | <img src="media/android/light_list.jpg" width="150"/> | <img src="media/android/light_movie.jpg" width="150"/> | <img src="media/android/light_favs.jpg" width="150"/> | <img src="media/android/light_theme.jpg" width="150"/> |
-### **Videos**
 
-| **iOS Video**                                                  | **Android Video**                                                  |
-|----------------------------------------------------------------|--------------------------------------------------------------------|
-| <video src="media/ios/video.mp4" width="400" controls></video> | <video src="media/android/video.mov" width="400" controls></video> |
 
 These assets ensure a consistent visual experience across platforms and themes, enhancing SceneLab's
 modern and responsive design.
