@@ -191,10 +191,10 @@ and iOS.
 
 ### **iOS Screenshots**
 
-|           | **List**                                | **Details**                               | **Favorites**                           | **Theme**                                 |
-|-----------|-----------------------------------------|-------------------------------------------|-----------------------------------------|-------------------------------------------|
-| **Dark**  | ![dark_list](media/ios/dark_list.png)   | ![dark_movie](media/ios/dark_movie.png)   | ![dark_favs](media/ios/dark_favs.png)   | ![dark_theme](media/ios/dark_theme.png)   |
-| **Light** | ![light_list](media/ios/light_list.png) | ![light_movie](media/ios/light_movie.png) | ![light_favs](media/ios/light_favs.png) | ![light_theme](media/ios/light_theme.png) |
+|           | **List**                                          | **Details**                                        | **Favorites**                                     | **Theme**                                               |
+|-----------|---------------------------------------------------|----------------------------------------------------|---------------------------------------------------|---------------------------------------------------------|
+| **Dark**  | <img src="media/ios/dark_list.png" width="200"/>  | <img src="media/ios/dark_movie.png" width="200"/>  | <img src="media/ios/dark_favs.png" width="200"/>  | ![dark_theme](media/ios/dark_theme.png" width="200"/>   |
+| **Light** | <img src="media/ios/light_list.png" width="200"/> | <img src="media/ios/light_movie.png" width="200"/> | <img src="media/ios/light_favs.png" width="200"/> | ![light_theme](media/ios/light_theme.png" width="200"/> |
 
 ### **Android Screenshots**
 
