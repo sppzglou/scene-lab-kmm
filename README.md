@@ -191,25 +191,29 @@ and iOS.
 
 ### **iOS Media**
 
-| **Dark Theme**                          | **Light Theme**                           |
-|-----------------------------------------|-------------------------------------------|
-| ![dark_favs](media/ios/dark_favs.png)   | ![light_favs](media/ios/light_favs.png)   |
-| ![dark_list](media/ios/dark_list.png)   | ![light_list](media/ios/light_list.png)   |
-| ![dark_movie](media/ios/dark_movie.png) | ![light_movie](media/ios/light_movie.png) |
-| ![dark_theme](media/ios/dark_theme.png) | ![light_theme](media/ios/light_theme.png) |
+| **Dark Theme**                                                                                                                                              |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![dark_favs](media/ios/dark_favs.png) ![dark_list](media/ios/dark_list.png) ![dark_movie](media/ios/dark_movie.png) ![dark_theme](media/ios/dark_theme.png) |
+
+| **Light Theme**                                                                                                                                                     |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![light_favs](media/ios/light_favs.png) ![light_list](media/ios/light_list.png) ![light_movie](media/ios/light_movie.png) ![light_theme](media/ios/light_theme.png) |
 
 ### **Android Media**
 
-| **Dark Theme**                              | **Light Theme**                               |
-|---------------------------------------------|-----------------------------------------------|
-| ![dark_favs](media/android/dark_favs.jpg)   | ![light_favs](media/android/light_favs.jpg)   |
-| ![dark_list](media/android/dark_list.jpg)   | ![light_list](media/android/light_list.jpg)   |
-| ![dark_movie](media/android/dark_movie.jpg) | ![light_movie](media/android/light_movie.jpg) |
-| ![dark_theme](media/android/dark_theme.jpg) | ![light_theme](media/android/light_theme.jpg) |
+| **Dark Theme**                                                                                                                                                              |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![dark_favs](media/android/dark_favs.jpg) ![dark_list](media/android/dark_list.jpg) ![dark_movie](media/android/dark_movie.jpg) ![dark_theme](media/android/dark_theme.jpg) |
+
+| **Light Theme**                                                                                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![light_favs](media/android/light_favs.jpg) ![light_list](media/android/light_list.jpg) ![light_movie](media/android/light_movie.jpg) ![light_theme](media/android/light_theme.jpg) |
 
 ### **Videos**
 
-| ![dark_favs](media/ios/video.mp4)  | ![light_favs](media/android/video.mov) |
+| **iOS Video**                 | **Android Video**                 |
+|-------------------------------|-----------------------------------|
+| ![video](media/ios/video.mp4) | ![video](media/android/video.mov) |
 
 These assets ensure a consistent visual experience across platforms and themes, enhancing SceneLab's
 modern and responsive design.
