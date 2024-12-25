@@ -198,7 +198,6 @@ and iOS.
 | **Light Theme**                                                                                                                                                     |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![light_favs](media/ios/light_favs.png) ![light_list](media/ios/light_list.png) ![light_movie](media/ios/light_movie.png) ![light_theme](media/ios/light_theme.png) |
-
 ### **Android Media**
 
 | **Dark Theme**                                                                                                                                                              |
