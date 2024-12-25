@@ -200,8 +200,8 @@ and iOS.
 
 |           | **List**                                    | **Details**                                   | **Favorites**                               | **Theme**                                     |
 |-----------|---------------------------------------------|-----------------------------------------------|---------------------------------------------|-----------------------------------------------|
-| **Dark**  | ![dark_list](media/android/dark_list.png)   | ![dark_movie](media/android/dark_movie.png)   | ![dark_favs](media/android/dark_favs.png)   | ![dark_theme](media/android/dark_theme.png)   |
-| **Light** | ![light_list](media/android/light_list.png) | ![light_movie](media/android/light_movie.png) | ![light_favs](media/android/light_favs.png) | ![light_theme](media/android/light_theme.png) |
+| **Dark**  | ![dark_list](media/android/dark_list.jpg)   | ![dark_movie](media/android/dark_movie.jpg)   | ![dark_favs](media/android/dark_favs.jpg)   | ![dark_theme](media/android/dark_theme.jpg)   |
+| **Light** | ![light_list](media/android/light_list.jpg) | ![light_movie](media/android/light_movie.jpg) | ![light_favs](media/android/light_favs.jpg) | ![light_theme](media/android/light_theme.jpg) |
 
 ### **Videos**
 
